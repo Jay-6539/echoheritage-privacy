@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Echo Heritage 私隱政策</title>
+  <style>
+    body { font-family: -apple-system, sans-serif; padding: 20px; line-height: 1.6; max-width: 800px; margin: auto; }
+    h1, h2 { color: #1a1a1a; }
+    a { color: #007AFF; }
+  </style>
+</head>
+<body>
+  <h1>Echo Heritage 私隱政策</h1>
+  <p><strong>生效日期：</strong>2025年11月11日</p>
+
+  <h2>1. 我們收集的資料</h2>
+  <ul>
+    <li>電郵或社交登錄（用於帳戶、等級、任務）</li>
+    <li>留言內容（Thread）、建築 ID、時間戳</li>
+    <li>NFC 掃描近似位置（非精確 GPS）</li>
+    <li>區塊鏈地址、NFT ID、交易記錄</li>
+    <li>互動行為（掃描、點讚、競技場選擇）</li>
+  </ul>
+
+  <h2>2. 資料用途</h2>
+  <p>AI 評級（Qwen）、NFT 鑄造（Alchemy）、任務獎勵、建築 HP 成長、內容排序（Elo）。</p>
+
+  <h2>3. 資料共享</h2>
+  <p>僅與 Alchemy、Qwen、Firebase、Polygon 共享。不出售資料。</p>
+
+  <h2>4. 你的權利</h2>
+  <p>可隨時要求查看、刪除資料：support@echoheritage.app</p>
+
+  <h2>5. 聯絡我們</h2>
+  <p>Email: support@echoheritage.app</p>
+
+  <hr>
+  <p style="text-align:center; color:#888; font-size:0.9em;">
+    © 2025 Echo Heritage. All rights reserved.
+  </p>
+</body>
+</html>
